@@ -1,2 +1,2 @@
 # serverless-demo
-Demonstration of serverless architecture
+Demonstration of serverless architecture using AWS components.
